@@ -1,5 +1,5 @@
 function imgSlider(anything) {
-    document.querySelector(".Starbucks").src = `../Starbucks Landing Page/images/${anything}`; 
+    document.querySelector(".Starbucks").src = `images/${anything}`; 
 }
 
 function changeCircleColor(color) {
